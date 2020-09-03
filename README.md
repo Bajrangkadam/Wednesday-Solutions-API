@@ -1,5 +1,5 @@
 
-# MarketWatch API
+# Wednesday-Solutions-API
 ---
 ## Features:
 1. ES6/ES7
